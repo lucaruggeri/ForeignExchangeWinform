@@ -1,0 +1,11 @@
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\obj\Debug\ForeignExchange.csprojResolveAssemblyReference.cache
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\obj\Debug\ForeignExchange.ForeignExchange.resources
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\obj\Debug\ForeignExchange.Properties.Resources.resources
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\obj\Debug\ForeignExchange.csproj.GenerateResource.Cache
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\bin\Debug\ForeignExchange.exe.config
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\bin\Debug\ForeignExchange.exe
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\bin\Debug\ForeignExchange.pdb
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\bin\Debug\Newtonsoft.Json.dll
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\bin\Debug\Newtonsoft.Json.xml
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\obj\Debug\ForeignExchange.exe
+F:\SOFTWARE\Foreign Exchange (Winform)\001\ForeignExchange\ForeignExchange\obj\Debug\ForeignExchange.pdb
